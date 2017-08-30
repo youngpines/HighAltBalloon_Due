@@ -28,3 +28,4 @@ int sensors_vin();
 
 #endif // ifndef __SENSORS_PIC32_H__
 #endif // ifdef PIC32MX
+

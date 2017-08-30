@@ -43,3 +43,4 @@ void RadioHx1::ptt_off()
 {
   pin_write(PTT_PIN, LOW);
 }
+

@@ -196,4 +196,3 @@ ax25_flush_frame()
   afsk_start();
 }
 
-

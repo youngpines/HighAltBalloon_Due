@@ -295,3 +295,4 @@ void Adafruit_BMP085::write8(uint8_t a, uint8_t d) {
 #endif
   Wire.endTransmission(); // end transmission
 }
+

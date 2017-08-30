@@ -184,3 +184,4 @@ class BME280
 
 
 #endif  // End of __BME280_H__ definition check
+

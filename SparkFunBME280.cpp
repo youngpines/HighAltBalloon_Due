@@ -397,3 +397,4 @@ void BME280::writeRegister(uint8_t offset, uint8_t dataToWrite)
 		break;
 	}
 }
+

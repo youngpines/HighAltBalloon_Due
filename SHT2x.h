@@ -56,3 +56,4 @@ class SHT2xClass
 extern SHT2xClass SHT2x;
 
 #endif
+

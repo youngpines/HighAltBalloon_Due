@@ -88,3 +88,4 @@ uint16_t SHT2xClass::readSensor(uint8_t command)
 }
 
 SHT2xClass SHT2x;
+
